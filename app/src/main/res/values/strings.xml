@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Olimpiadas</string>
+    <string name="cofirmacao">Confirmação</string>
+    <string name="nome">Nome:</string>
+    <string name="idade">Idade:</string>
+    <string name="modalidade">Modalidade:</string>
+    <string name="periodo">Período:</string>
+</resources>
